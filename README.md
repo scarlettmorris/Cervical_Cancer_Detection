@@ -1,5 +1,4 @@
 # Deep Learning for Cervical Cancer Detection using UNI Feature Extractions from Histopathological Images
-This project forms the software artifact for a BSci Dissertation. 
 
 
 ## Setup 
